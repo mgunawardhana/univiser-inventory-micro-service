@@ -2,7 +2,6 @@ package com.univiser.inventory.inventory_management.controller;
 
 import com.univiser.inventory.domain.APIResponse;
 import com.univiser.inventory.domain.entity.Item;
-import com.univiser.inventory.inventory_management.repository.InventoryRepo;
 import com.univiser.inventory.inventory_management.service.InventoryService;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
